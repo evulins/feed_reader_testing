@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project I was given a web-based application that reads RSS feeds. [Original project](https://github.com/udacity/frontend-nanodegree-feedreader)has already included [Jasmine](http://jasmine.github.io/) and the first test suite. This testing project required analyzing multiple aspects of an application including the HTML, CSS and JavaScript.
+In this project I was given a web-based application that reads RSS feeds. [Original project](https://github.com/udacity/frontend-nanodegree-feedreader) has already included [Jasmine](http://jasmine.github.io/) and the first test suite. This testing project required analyzing multiple aspects of an application including the HTML, CSS and JavaScript.
 
 
 ## How to run the Feed Reader?
